@@ -73,6 +73,7 @@ html{
     border-radius: none;
     width:101%;
     overflow: auto;
+    position:fixed;
 }
 
 #section3{
