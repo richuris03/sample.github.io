@@ -72,7 +72,7 @@ html{
     background-color: #00246B;
     border-radius: none;
     width:101%;
-    overflow: auto;
+    overflow: hidden;
     
 }
 
